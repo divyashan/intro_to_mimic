@@ -1,2 +1,2 @@
 # intro_to_mimic
-helper functions/started code to start playing with MIMIC-IV (using pandas)
+starter code for playing with MIMIC-IV (using pandas)
